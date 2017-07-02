@@ -1,7 +1,9 @@
-package me.doruko.baggy;
+package me.doruko.baggy.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import me.doruko.baggy.R;
 
 public class MainActivity extends AppCompatActivity {
 
